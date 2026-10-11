@@ -25,3 +25,7 @@ Each '.mat' file contains the following variables for a single recording session
 - Trials: Trial information and trial-type labels.
 
 - Units: Cell array containing information for each unit (one cell corresponds to one unit). 
+
+## Copyright
+
+Copyright (c) 2026 Xia Chen, Xiao Yao, Xinxin Yin, and Zengcai V. Guo. All rights reserved. The data and associated code are provided for research and educational purposes. Any reuse, redistribution, or reproduction of the materials must appropriately cite the original publication and the associated Zenodo record.
